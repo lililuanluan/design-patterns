@@ -1,0 +1,1 @@
+// g++ -std=c++20 -O3 -Wall 5_strategy.cpp -o bin/strategy; bin/strategy
